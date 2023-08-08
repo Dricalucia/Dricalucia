@@ -7,6 +7,8 @@
 ### 👩‍💻 Tecnologies / Tools :
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="35" width="35">
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" height="40" width="40"/>
+<img src="https://github.com/Dricalucia/Dricalucia/assets/108764670/3f9607ac-fe69-4cab-bdd5-f59866bc396e" height="40" width="40"/>
+
 <img src="https://github.com/Dricalucia/Dricalucia/assets/108764670/b61081da-e7c4-41fd-8721-3086f02ea1d2" height="45" width="45" />
 <img src="https://github.com/Dricalucia/Dricalucia/assets/108764670/1f20f980-5300-4ae6-84c1-ad3c3d725199" height="45" width="45" />
 <img src="https://github.com/Dricalucia/Dricalucia/assets/108764670/0ef52b5c-62db-4e96-9e9c-aeecacc4a315" height="45" width="45" />
