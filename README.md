@@ -14,7 +14,6 @@
 
  <a href = "https://api.whatsapp.com/send?phone=5581999743065&text=Ol%C3%A1%2C%20Tudo%20bem%3F%20Vim%20pelo%20seu%20perfil%20do%20GitHub. " target = "_ blank"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>
  <a href = "https://www.facebook.com/drica.lucia/" target = "_ blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
-@@ -17,23 +17,23 @@
  <a href = "mailto:alfr@cesar.school?&subject=&cc=&bcc=&body=alfr@cesar.school%0A"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
 
 ##
@@ -22,13 +21,13 @@
 ### Languages:
 
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-
-<img src="https://icons8.com/icon/40670/c-programming"/>
-<img src="https://icons8.com/icon/13441/python"/>
-<img src="https://icons8.com/icon/13679/java"/>
-<img src="https://icons8.com/icon/XPdRFanRZtNK/django"/>
-<img src="https://icons8.com/icon/Of4lZV2lwBQI/arduino"/>
-<img src="https://icons8.com/icon/20909/html-5"/>
+<img src="https://img.icons8.com/search">
+<img src="https://icons8.com/icon/40670/c-programming">
+<img src="https://icons8.com/icon/13441/python">
+<img src="https://icons8.com/icon/13679/java">
+<img src="https://icons8.com/icon/XPdRFanRZtNK/django">
+<img src="https://icons8.com/icon/Of4lZV2lwBQI/arduino">
+<img src="https://icons8.com/icon/20909/html-5">
 
 ##
 ### 𝐹𝑒𝓇𝓇𝒶𝓂𝑒𝓃𝓉𝒶𝓈:
