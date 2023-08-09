@@ -7,23 +7,22 @@
 ### 👩‍💻 Tecnologies / Tools :
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="35" width="35">
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" height="40" width="40"/>
-<img src="https://github.com/Dricalucia/Dricalucia/assets/108764670/3f9607ac-fe69-4cab-bdd5-f59866bc396e" height="40" width="40"/>
-
-<img src="https://github.com/Dricalucia/Dricalucia/assets/108764670/b61081da-e7c4-41fd-8721-3086f02ea1d2" height="45" width="45" />
-<img src="https://github.com/Dricalucia/Dricalucia/assets/108764670/1f20f980-5300-4ae6-84c1-ad3c3d725199" height="45" width="45" />
-<img src="https://github.com/Dricalucia/Dricalucia/assets/108764670/0ef52b5c-62db-4e96-9e9c-aeecacc4a315" height="45" width="45" />
+<img src="https://github.com/Dricalucia/Dricalucia/assets/108764670/3f9607ac-fe69-4cab-bdd5-f59866bc396e" height="45" width="45"/>
+<img src="https://github.com/Dricalucia/Dricalucia/assets/108764670/d60f1c53-12de-4a3c-9cbe-8e8f66beca11" height="45" width="45" />
+<img src="https://github.com/Dricalucia/Dricalucia/assets/108764670/a417d3a3-fcd3-4fb3-b6d7-df37de0b3b79" height="45" width="45" />
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" height="40" width="40"/>
 <img src="https://img.icons8.com/fluency/48/000000/github.png" height="40" width="40" />
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="40" width="40" />
-<img src="https://github.com/Dricalucia/Dricalucia/assets/108764670/a6e47f4b-da82-4458-8d24-a3186a917f6e" height="40" width="40" />
-<img src="https://github.com/Dricalucia/Dricalucia/assets/108764670/40d54dc5-96a7-4da5-9c58-9ff6b75ba09d" height="40" width="40" />
-<img src="https://github.com/Dricalucia/Dricalucia/assets/108764670/03b540e6-433e-43f8-a6f9-e41fc2cbc8b2" height="40" width="40" />
+<img src="https://github.com/Dricalucia/Dricalucia/assets/108764670/3aed33d9-2ef4-4c65-97fa-39c0d3eabf51" height="40" width="40" />
+<img src="https://github.com/Dricalucia/Dricalucia/assets/108764670/0df4fff4-513e-4161-8eb8-c71dba3f5a81" height="40" width="40" />
+<img src="https://github.com/Dricalucia/Dricalucia/assets/108764670/9994c4d0-1dc9-4ee8-9120-add0b414b593" height="40" width="40" />
+
 
 ##
 ### 📱 Connect with me:
-<a href = "https://www.linkedin.com/in/adriana-rodrigues-38733921/" target = "_ blank"><img src="https://github.com/Dricalucia/Dricalucia/assets/108764670/f494d907-d7d0-4d93-9109-65c9ec688658" height="40" width="40">
-<a href = "https://api.whatsapp.com/send?phone=5581999743065&text=Ol%C3%A1%2C%20Tudo%20bem%3F%20Vim%20pelo%20seu%20perfil%20do%20GitHub. " target = "_ blank"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" height="40" width="40" />
- <a href = "mailto:alfr@cesar.school?&subject=&cc=&bcc=&body=alfr@cesar.school%0A"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" width="40" />
+<a href = "https://www.linkedin.com/in/adriana-rodrigues-38733921/" target = "_ blank"> <img src="https://github.com/Dricalucia/Dricalucia/assets/108764670/4265ce9a-2260-403b-9618-58b704ea1abc" height="40" width="40">
+<a href = "mailto:alfr@cesar.school?&subject=&cc=&bcc=&body=alfr@cesar.school%0A"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" width="40" />
+
 
 ##
 ### ⚡ GitHub Stats:
