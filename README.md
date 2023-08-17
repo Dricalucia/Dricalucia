@@ -27,8 +27,7 @@
 ##
 ### ⚡ GitHub Stats:
 ##
-
-![YOUR github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={Dricalucia})
+(https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={Dricalucia})
 
 
 
@@ -38,5 +37,5 @@
 ### Profile Visits:
    <img src="https://profile-counter.glitch.me/Dricalucia/count.svg" /> 
    
-   https://github-profile-trophy.vercel.app/?username={Dricalucia}
+   (https://github-profile-trophy.vercel.app/?username={Dricalucia})
  </div>
