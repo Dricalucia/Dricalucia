@@ -20,15 +20,17 @@
 
 ##
 ### 📱 Connect with me:
-<a href = "https://www.linkedin.com/in/adriana-rodrigues-38733921/" target = "_ blank"> <img src="https://github.com/Dricalucia/Dricalucia/assets/108764670/4265ce9a-2260-403b-9618-58b704ea1abc" height="40" width="40">
-<a href = "mailto:alfr@cesar.school?&subject=&cc=&bcc=&body=alfr@cesar.school%0A"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" width="40" />
+<a href = "mailto:alfr@cesar.schooli"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/adriana-rodrigues-38733921" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 ##
 ### ⚡ GitHub Stats:
 ##
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=Dricalucia&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Dricalucia&layout=compact&langs_count=16&theme=radical" />
+<a href="https://github.com/Dricalucia">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dricalucia&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Dricalucia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 
 ##
 ### Profile Visits:
