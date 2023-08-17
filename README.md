@@ -27,10 +27,6 @@
 ##
 ### ⚡ GitHub Stats:
   <a href="https://github.com/Dricalucia">
-
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=Dricalucia&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Dricalucia&layout=compact&langs_count=16&theme=transparent" />
-
 #
 ![Snake animation](https://github.com/leehxd/leehxd/blob/output/github-contribution-grid-snake.svg)
    
