@@ -26,6 +26,10 @@
 
 ##
 ### ⚡ GitHub Stats:
+
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={Dricalucia}
+
+
   <a href="https://github.com/Dricalucia">
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Dricalucia)
