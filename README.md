@@ -26,17 +26,15 @@
 
 ##
 ### ⚡ GitHub Stats:
-
+##
 https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={Dricalucia}
 
 https://github-readme-stats.vercel.app/api/top-langs/?username={Dricalucia}
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={Dricalucia}
 
-https://github-profile-trophy.vercel.app/?username={Dricalucia} 
  
 ##
 ### Profile Visits:
    <img src="https://profile-counter.glitch.me/Dricalucia/count.svg" /> 
-
+   https://github-profile-trophy.vercel.app/?username={Dricalucia}
  </div>
