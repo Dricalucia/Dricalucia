@@ -23,6 +23,13 @@
 <a href = "mailto:alfr@cesar.schooli"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/adriana-rodrigues-38733921" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+##
+## Data Analysis
+| Projeto                                                     | Link                                                  | 
+| ----------------------------------------------------------- | ----------------------------------------------------- |
+| Análise de Dados e Predição com Python e Pandas             | [![Link](https://img.shields.io/badge/-Análise-E44C30?style=for-the-badge)](https://github.com/Dricalucia/Programa_Desenvolve_2024/tree/f4890cd8ae5ea64e83793f7c9dd03c37a1aea7fb/2o%20Desafio%20-%20An%C3%A1lise%20de%20Dados%20e%20Predi%C3%A7%C3%A3o%20com%20Python%20e%20Pandas)   |
+| Análise de Dados com BigQuery e Looker e Storytelling       | [![Link](https://img.shields.io/badge/-Análise-0077B5?style=for-the-badge)](https://github.com/Dricalucia/Programa_Desenvolve_2024/tree/f4890cd8ae5ea64e83793f7c9dd03c37a1aea7fb/3o%20Desafio%20-%20An%C3%A1lise%20de%20Dados%20com%20BigQuery%20e%20Looker%20e%20Storytelling) |
+| Analise do IDHM dos Municípios Brasileiros                  | [![Link](https://img.shields.io/badge/-Análise-E44C30?style=for-the-badge)](https://github.com/Dricalucia/Data-analysis-IDHM-dos-Municipios-Brasileiros/) |
 
 ##
 ### ⚡ GitHub Stats:
@@ -30,6 +37,9 @@
 <a href="https://github.com/Dricalucia">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dricalucia&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dricalucia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dricalucia&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
 ##
