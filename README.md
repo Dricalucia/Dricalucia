@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/adriana-rodrigues-38733921" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ##
-## Data Analysis
+## :chart_with_upwards_trend: Data Analysis
 | Projeto                                                     | Link                                                  | 
 | ----------------------------------------------------------- | ----------------------------------------------------- |
 | Análise de Dados e Predição com Python e Pandas             | [![Link](https://img.shields.io/badge/-Análise-E44C30?style=for-the-badge)](https://github.com/Dricalucia/Programa_Desenvolve_2024/tree/f4890cd8ae5ea64e83793f7c9dd03c37a1aea7fb/2o%20Desafio%20-%20An%C3%A1lise%20de%20Dados%20e%20Predi%C3%A7%C3%A3o%20com%20Python%20e%20Pandas)   |
