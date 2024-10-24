@@ -1,7 +1,7 @@
 <div>
 
 ### Hi there 👋 I'm Adriana, be very welcome 🌎
-📚 I'm a student Computer Science at Cesar School. I'm learning Python and Data Analytics. I'm looking for an opportunity to grow.
+📚 I'm a student Computer Science at Cesar School. I'm learning Python, Java, Data Analytics and Project. I'm looking for an opportunity to grow.
 
 ##
 ### 👩‍💻 Tecnologies / Tools :
