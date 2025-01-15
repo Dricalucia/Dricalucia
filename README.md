@@ -29,7 +29,7 @@
 | ----------------------------------------------------------- | ----------------------------------------------------- |
 | Análise dos Incidentes de Trânsito no Brasil em 2023        | [![Link](https://img.shields.io/badge/-Análise-0077B5?style=for-the-badge)](https://github.com/Dricalucia/Estatistica/tree/b3b75415c500304840c3e862d86e9b641306d4ee/IncidenteTransitoBrasil) |
 | Análise de Dados e Predição com Python e Pandas             | [![Link](https://img.shields.io/badge/-Análise-E44C30?style=for-the-badge)](https://github.com/Dricalucia/Programa_Desenvolve_2024/tree/9b59b41c1091ea3a25ec27706c9312f39bd28b57/2o%20Desafio%20-%20An%C3%A1lise%20de%20Dados%20e%20Predi%C3%A7%C3%A3o%20com%20Python%20e%20Pandas) |
-| Análise de Dados com BigQuery e Looker e Storytelling       | [![Link](https://img.shields.io/badge/-Análise-0077B5?style=for-the-badge)](https://github.com/Dricalucia/Programa_Desenvolve_2024/tree/f4890cd8ae5ea64e83793f7c9dd03c37a1aea7fb/3o%20Desafio%20-%20An%C3%A1lise%20de%20Dados%20com%20BigQuery%20e%20Looker%20e%20Storytelling) |
+| Análise de Dados com BigQuery e Looker e Storytelling       | [![Link](https://img.shields.io/badge/-Análise-0077B5?style=for-the-badge)](https://github.com/Dricalucia/Programa_Desenvolve_2024/tree/main/3o%20Desafio%20-%20An%C3%A1lise%20de%20Dados%20com%20BigQuery%20e%20Looker%20e%20Storytelling) |
 | Análise do IDHM dos Municípios Brasileiros                  | [![Link](https://img.shields.io/badge/-Análise-E44C30?style=for-the-badge)](https://github.com/Dricalucia/Data-analysis-IDHM-dos-Municipios-Brasileiros/) |
 
 
